@@ -1,0 +1,12 @@
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\bin\Debug\belajar_login.exe.config
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\bin\Debug\belajar_login.exe
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\bin\Debug\belajar_login.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\bin\Debug\belajar_login.xml
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\obj\Debug\belajar_login.vbprojResolveAssemblyReference.cache
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\obj\Debug\belajar_login.Form1.resources
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\obj\Debug\belajar_login.menu_utamavb.resources
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\obj\Debug\belajar_login.Resources.resources
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\obj\Debug\belajar_login.vbproj.GenerateResource.Cache
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\obj\Debug\belajar_login.exe
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\obj\Debug\belajar_login.xml
+c:\users\m3m\documents\visual studio 2015\Projects\belajar_login\belajar_login\obj\Debug\belajar_login.pdb
